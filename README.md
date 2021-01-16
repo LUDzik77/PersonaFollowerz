@@ -20,7 +20,7 @@ or any other. It is not case sensitive.
 Twitter_tools can reused in convinient way in your other programmes.
 
 
-(screenshot_of_software.png)
+![GitHub Logo](screenshot_of_software.png)
 
 
 ## Important
