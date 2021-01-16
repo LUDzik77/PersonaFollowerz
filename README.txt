@@ -1,15 +1,37 @@
+# PersonaFolowerz
+
 PersonaFolowerz is a basic soft with twitter API.
 
-Author: Ludwik Papaj
+It displays offical twitter accounts of cadidate's in 2020 presidential elections in Poland.
 
-IMPORTANT: To run the programme you have to add your client and owner keys. 
-You can easily get them from: www.https://developer.twitter.com/en
-It takes 1-2 days to get the account accepted.
+(Recently mr. Witkowski has removed his account)
 
-'PersonaFolowerz' displays offical twitter accounts of all the 11 cadidate's in 2020 presidential elections in Poland.
 You can compare any twitter accounts to those polititians by searching with a twitter screen name.
-You can try: RealDonaldTrump, JoeBiden, BarackObama, AngelaMerkeICDU, narendramodi, JkmMikke or any other. It is not case sensitive.
+
+You can try: 
+* JoeBiden 
+*BarackObama 
+*AngelaMerkeICDU 
+*narendramodi, 
+*JkmMikke 
+
+or any other. It is not case sensitive.
+
+Twitter_tools can reused in convinient way in your other programmes.
+
+## Important
+
+To run the programme you have to add your client and owner keys. 
+
+You can easily get them from: www.https://developer.twitter.com/en
+
+It takes 1-2 days to get the account accepted.
 
 Delay while running is caused by twitter data flow limitation.
 
-Twitter_tools can reused in convinient way in your other programmes.
+
+## Copyrights
+ *Ludwik R. Papaj* 2020
+
+
+
