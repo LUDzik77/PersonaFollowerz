@@ -10,10 +10,10 @@ You can compare any twitter accounts to those polititians by searching with a tw
 
 You can try: 
 * JoeBiden 
-*BarackObama 
-*AngelaMerkeICDU 
-*narendramodi, 
-*JkmMikke 
+* BarackObama 
+* AngelaMerkeICDU 
+* narendramodi, 
+* JkmMikke 
 
 or any other. It is not case sensitive.
 
