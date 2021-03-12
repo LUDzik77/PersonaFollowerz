@@ -1,7 +1,7 @@
 # PersonaFolowerz
 
 PersonaFolowerz is a basic soft with twitter API.
-It displays offical twitter accounts of cadidate's in 2020 presidential elections in Poland.
+It displays offical twitter accounts of cadidate's in the 2020 presidential elections in Poland.
 (Recently mr. Witkowski has removed his account)
 
 You can compare any twitter accounts to those polititians by searching with a twitter screen name.
@@ -14,7 +14,7 @@ You can try:
 * JkmMikke 
 or any other. It is not case sensitive.
 
-Twitter_tools can reused in convinient way in your other programmes.
+Twitter_tools can be reused in convinient way in your other programmes.
 
 ![GitHub Logo](screenshot_of_software_.png)
 
